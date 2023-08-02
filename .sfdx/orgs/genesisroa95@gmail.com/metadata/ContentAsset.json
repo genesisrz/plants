@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0050600000H1khfAAB",
+      "createdByName": "Genesis Roa",
+      "createdDate": "2023-07-31T11:42:34.000Z",
+      "fileName": "contentassets/depositphotos_81595024stockillustra.asset",
+      "fullName": "depositphotos_81595024stockillustra",
+      "id": "03S060000004UCSEA2",
+      "lastModifiedById": "0050600000H1khfAAB",
+      "lastModifiedByName": "Genesis Roa",
+      "lastModifiedDate": "2023-07-31T11:42:34.000Z",
+      "manageableState": "unmanaged",
+      "type": "ContentAsset"
+    }
+  ]
+}

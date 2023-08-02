@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0050600000H1khfAAB",
+      "createdByName": "Genesis Roa",
+      "createdDate": "2023-07-31T11:43:14.000Z",
+      "fileName": "brandingSets/LEXTHEMINGPlantsForAll.brandingSet",
+      "fullName": "LEXTHEMINGPlantsForAll",
+      "id": "0Lw060000008Qa4CAE",
+      "lastModifiedById": "0050600000H1khfAAB",
+      "lastModifiedByName": "Genesis Roa",
+      "lastModifiedDate": "2023-07-31T11:43:14.000Z",
+      "manageableState": "unmanaged",
+      "type": "BrandingSet"
+    }
+  ]
+}
